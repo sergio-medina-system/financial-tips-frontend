@@ -1,4 +1,5 @@
 # financial-tips
+This website is inspired by the teacher Diana Martínez from  the Platzi course "Curso Práctico de Vue.js".
 
 ## Project setup
 ```
